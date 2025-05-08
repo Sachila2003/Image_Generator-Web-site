@@ -132,32 +132,46 @@
     width: 14px;
     height: 14px;
 }
+@media screen and (max-width: 760){
+    
+.image-generater h1 {
+    font-size: 2.5rem;
+}
 
-@media screen and (max-width: 760px) {
-    .image-generater h1 {
-        font-size: 1.8rem;
-    }
-    .image-generater p {
-        font-size: 1rem;
-    }
-    .image-generater .generate-form{
-        margin-top: 30px;
-        height: 52px;
-        display: block;
-    }
-    .generate-form .controls {
-        height: 40px;
-        margin-top: 15px;
-        align-items: center;
-        justify-content: flex-end;
-    }
-    .generate-form .img-quantity {
-        color: #fff;
-    }
-    .generate-form .img-quantity option {
-        color: #000;
-    }
-    .generate-form .generate-btn {
-        height: 100%;
-    }
+.image-generater p {
+    font-size: 1.5rem;
+}
+
+.image-generater .generate-form {
+    margin-top: 30px;
+    height: 52px;
+    display: block;
+}
+
+.generate-form .controls {
+    height: 40px;
+    margin-top: 15px;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.generate-form .img-quantity {
+    color: #fff;
+}
+
+.generate-form .img-quantity option {
+    color: #000;
+}
+
+.generate-form .generate-btn {
+    height: 100%;
+}
+.image-gallery .img-card:not(.loading) .download-btn {
+    display: flex;
+}
+.image-gallery {
+    margin-top: 20px;
+}
+
+    
 }
