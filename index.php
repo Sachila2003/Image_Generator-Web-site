@@ -36,8 +36,8 @@
                 <img src="Images/downloads.png" alt="download icon">
             </a>
         </div>
-        <div class="img-card">
-            <img src="Images/pexels-maxandrey-1366630.jpg" alt="image">
+        <div class="img-card loading">
+            <img src="Images/loading.png" alt="image">
             <a href="#" class="download-btn">
                 <img src="Images/downloads.png" alt="download icon">
             </a>
@@ -50,12 +50,6 @@
         </div>
         <div class="img-card">
             <img src="Images/pexels-rpnickson-2486168.jpg" alt="image">
-            <a href="#" class="download-btn">
-                <img src="Images/downloads.png" alt="download icon">
-            </a>
-        </div>
-        <div class="img-card">
-            <img src="Images/pexels-pixabay-33045.jpg" alt="image">
             <a href="#" class="download-btn">
                 <img src="Images/downloads.png" alt="download icon">
             </a>
